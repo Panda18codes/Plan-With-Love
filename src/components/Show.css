@@ -1,0 +1,8 @@
+
+.Show{
+    border : 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    width: fit-content;
+    color : black;
+}
